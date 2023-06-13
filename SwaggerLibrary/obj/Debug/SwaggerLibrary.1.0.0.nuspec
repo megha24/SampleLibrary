@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SwaggerLibrary</id>
+    <version>1.0.0</version>
+    <authors>SwaggerLibrary</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/bin/Debug/net6.0/SwaggerLibrary.dll" target="lib/net6.0/SwaggerLibrary.dll" />
+  </files>
+</package>

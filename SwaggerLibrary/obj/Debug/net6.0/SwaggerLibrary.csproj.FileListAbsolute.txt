@@ -1,0 +1,12 @@
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/bin/Debug/net6.0/SwaggerLibrary.deps.json
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/bin/Debug/net6.0/SwaggerLibrary.dll
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/bin/Debug/net6.0/SwaggerLibrary.pdb
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/obj/Debug/net6.0/SwaggerLibrary.csproj.AssemblyReference.cache
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/obj/Debug/net6.0/SwaggerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/obj/Debug/net6.0/SwaggerLibrary.AssemblyInfoInputs.cache
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/obj/Debug/net6.0/SwaggerLibrary.AssemblyInfo.cs
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/obj/Debug/net6.0/SwaggerLibrary.csproj.CoreCompileInputs.cache
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/obj/Debug/net6.0/SwaggerLibrary.dll
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/obj/Debug/net6.0/refint/SwaggerLibrary.dll
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/obj/Debug/net6.0/SwaggerLibrary.pdb
+/Users/meghaagr/Documents/Learnings/DotnetExamples/SampleLibrary/SwaggerLibrary/obj/Debug/net6.0/ref/SwaggerLibrary.dll
